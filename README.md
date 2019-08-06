@@ -4,10 +4,17 @@ Solución para la descarga masiva del nuevo WS-SAT
 
 ## Comenzando 🚀
 Urls:
-Autenticación : https://cfdidescargamasivasolicitud.clouda.sat.gob.mx/Autenticacion/Autenticacion.svc
-Solicitud: https://cfdidescargamasivasolicitud.clouda.sat.gob.mx/SolicitaDescargaService.svc
-Verificación: https://cfdidescargamasivasolicitud.clouda.sat.gob.mx/VerificaSolicitudDescargaService.svc
-Descarga: https://cfdidescargamasiva.clouda.sat.gob.mx/DescargaMasivaService.svc
+Autenticación :
+https://cfdidescargamasivasolicitud.clouda.sat.gob.mx/Autenticacion/Autenticacion.svc
+
+Solicitud:
+https://cfdidescargamasivasolicitud.clouda.sat.gob.mx/SolicitaDescargaService.svc
+
+Verificación: 
+https://cfdidescargamasivasolicitud.clouda.sat.gob.mx/VerificaSolicitudDescargaService.svc
+
+Descarga: 
+https://cfdidescargamasiva.clouda.sat.gob.mx/DescargaMasivaService.svc
 
 
 Ejemplo: 
